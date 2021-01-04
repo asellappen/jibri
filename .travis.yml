@@ -1,2 +1,4 @@
-language: java
+
+
+language: node_js
 arch: ppc64le
